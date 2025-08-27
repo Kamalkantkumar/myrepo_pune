@@ -5,7 +5,7 @@ accounts:
   message: "Hey, welcome to EazyBank accounts related webhook APIs"
   contactDetails:
     name: "Kamalkant - Product Owner"
-    email: "38daa510c9ed5202ee27e24bdd6d08f2104b214c6d8f7a7fc3886a47e1d1a2563885d564b38c63e468e725cd2e7f09bc"
+    email: "{cipher}38daa510c9ed5202ee27e24bdd6d08f2104b214c6d8f7a7fc3886a47e1d1a2563885d564b38c63e468e725cd2e7f09bc"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
