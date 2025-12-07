@@ -1,0 +1,1 @@
+package com.technoelevate.frirnds_detail_pojo;

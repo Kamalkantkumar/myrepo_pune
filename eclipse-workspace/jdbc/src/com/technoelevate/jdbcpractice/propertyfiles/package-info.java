@@ -1,0 +1,1 @@
+package com.technoelevate.jdbcpractice.propertyfiles;
